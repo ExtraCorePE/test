@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "rettreretrtee",
+        "name": "ezezezezze",
+        "uuid": "4c9cb0ec-4f55-47ff-a1eb-7073ccfc7e83",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "rettreretrtee",
+            "type": "resources",
+            "uuid": "3c693e72-5890-46c8-a637-5838bc4a2053",
+            "version": [0, 0, 1]
+        }
+    ]
+}
